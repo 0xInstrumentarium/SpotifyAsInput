@@ -15,7 +15,7 @@ Can be used to Micspam in TF2 or for any other reason you'd want to Play Music o
 3. Open 'pavucontrol' (Volume Control).
 4. Go to the 'Playback' tab and locate Spotify.
 5. Change Spotify's output to '$VIRTUAL_SINK_DESCRIPTION'.
-6. In whatever voice application , select 'Spotify Virtual Mic' as your *Music Input*
+6. In whatever voice application , select 'Spotify Virtual Mic' as your Microphone
 
 If you wish to talk in Discord etc. make sure you are using your actual microphone instead.
 
